@@ -1,0 +1,38 @@
+.new-expense__controls {
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: left;
+    flex: 1;
+}
+
+.new-expense__control label {
+    font-size: inherit;
+    font-weight: bold;
+    margin-left: 2px;
+    margin-bottom: 3px;
+    display: block;
+    flex: 1;
+}
+  
+.new-expense__control input {
+    font-size: 16px;
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    width: 250px;
+    max-width: 90%;
+    flex: 1;
+}
+
+.new-expense__control button {
+    margin-top: 15px;
+    margin-left: 20px;
+    flex: 1;
+}
+
+.new-expense__actions {
+    text-align: right;
+}
