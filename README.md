@@ -1,9 +1,3 @@
-# Projeto de uma Calculadora de Despesas 
-REACT THE COMPLETE GUIDE by Maximilian Schwarzmuller
+# Calculadora de despesas 
 
-O objetivo deste projeto foi: <br />
-
-Compreender o uso useState; <br />
-Submissão de formulários; <br />
-Compreender o uso de two-way binding; <br />
-Comunicação do componente filho para componente pai.
+Para compreender o uso de Hooks e as demais formas de comunicação entre componentes, esse projeto contém uma premissa simples de: receber dados de um formulário para calcular despesas e mostrá-las ao usuário.
